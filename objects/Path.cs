@@ -1,0 +1,7 @@
+namespace DefenseGame
+{
+  class Path
+  {
+    
+  }
+}
